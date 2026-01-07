@@ -8,11 +8,10 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sgr-studio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sgr-studio&theme=github_dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sgr-studio&theme=tokyonight&hide_border=true&background=0D1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgr-studio&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sgr-studio&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sgr-studio&theme=github_dark)
 
 ---
 
